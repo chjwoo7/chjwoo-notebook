@@ -5,6 +5,7 @@
 ## Android Pentest
 
 * [Root AVD](android-pentest/root-avd.md)
+* [Burpsuite Setup AVD](android-pentest/burpsuite-setup-avd.md)
 
 ## iOS Pentest
 
