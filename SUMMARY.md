@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🛡️ chjwoo-notebook | Cybersecurity & CTF Notes](README.md)
+* [chjwoo's Notes](README.md)
 
 ## Android Pentest
 
